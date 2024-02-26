@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.151,C:\Users\step4\Desktop\WhiteApp\WhiteApp.cbproj=C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\WhiteApp.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,C:\Users\step4\Desktop\WhiteApp\WhiteApp.cbproj=C:\Users\step4\Desktop\WhiteApp\WhiteApp.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,C:\Users\step4\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\WhiteApp.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\WhiteApp.cbproj=C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\WhiteApp.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,C:\OpenXLSX\OpenXLSX\build\Release\OpenXLSX.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\Main.cpp=C:\Users\step4\Desktop\WhiteApp\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,C:\libxl-4.2.0\libxl.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,=C:\libxl-4.2.0\libxl.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,C:\Users\step4\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\Main.dfm=C:\Users\step4\Desktop\WhiteApp\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.347,C:\libxl-4.2.0\lib\libxl.lib=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\Main.h=C:\Users\step4\Desktop\WhiteApp\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,=C:\Users\step4\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,C:\Users\step4\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\WhiteAppPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,C:\Users\step4\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=C:\OpenXLSX\OpenXLSX\build\Release\OpenXLSX.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,C:\Users\step4\Desktop\WhiteApp\WhiteAppPCH2.h=C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\WhiteAppPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,=C:\Users\step4\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.622,C:\Users\step4\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\step4\Documents\Embarcadero\Studio\Projects\WhiteApp\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,=C:\libxl-4.2.0\lib\libxl.lib</Transaction>
+  </Transactions>
+</BorlandProject>
